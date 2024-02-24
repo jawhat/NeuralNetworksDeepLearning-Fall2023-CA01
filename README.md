@@ -17,9 +17,10 @@
 
 ## Contributors
 
-- _Javad Seraj_
-  [Linkedin](https://www.linkedin.com/in/javad-seraj/)
-  jvseraj@gmail.com
 - _Maryam Dadkhah_
   [Linkedin](https://www.linkedin.com/in/maryam-dadkhah/)
   m.dadkhah99@gmail.com
+
+- _Javad Seraj_
+  [Linkedin](https://www.linkedin.com/in/javad-seraj/)
+  jvseraj@gmail.com
